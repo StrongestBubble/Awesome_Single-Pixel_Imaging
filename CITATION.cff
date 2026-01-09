@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you find this resource list helpful, please cite it as below."
+authors:
+  - family-names: "Su"
+    given-names: "Wenqing"
+    orcid: "https://orcid.org/0009-0002-7618-1568"
+    email: "2111904043@mail2.gdut.edu.cn"
+    affiliation: "Guangdong University of Technology"
+title: "Awesome Single-Pixel Imaging"
+version: 1.0.0
+date-released: 2026-01-09
+url: "https://github.com/StrongestBubble/Awesome_Single-Pixel_Imaging"
+keywords:
+  - single-pixel imaging
+  - ghost imaging
+  - compressed sensing
+  - computational imaging
+  - optics
+license: MIT
+abstract: "A curated list of awesome single-pixel imaging (SPI), computational ghost imaging (CGI), and related compressed sensing (CS) resources including papers, code, and datasets."

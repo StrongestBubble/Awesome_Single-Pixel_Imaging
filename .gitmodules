@@ -1,0 +1,3 @@
+[submodule "external_sources/Single-Pixel-Imaging"]
+	path = external_sources/Single-Pixel-Imaging
+	url = https://github.com/williamdelacruz/Single-Pixel-Imaging.git
