@@ -25,7 +25,13 @@ Single-pixel imaging involves capturing spatial information of an object using a
     - [Simulation \& Traditional Algorithms](#simulation--traditional-algorithms)
     - [CS Solvers (Toolboxes)](#cs-solvers-toolboxes)
     - [Deep Learning](#deep-learning)
-  - [Research Groups](#research-groups)
+  - [Global Research Groups](#global-research-groups)
+    - [🇪🇺 Europe](#-europe)
+      - [🇬🇧 United Kingdom (A powerhouse in the field)](#-united-kingdom-a-powerhouse-in-the-field)
+    - [🌎 North America](#-north-america)
+      - [🇺🇸 United States (The birthplace of theory)](#-united-states-the-birthplace-of-theory)
+    - [🌏 Asia](#-asia)
+      - [🇨🇳 China (Leading in engineering applications)](#-china-leading-in-engineering-applications)
   - [Contributing](#contributing)
   - [Maintainer](#maintainer)
 
@@ -131,7 +137,7 @@ Single-pixel imaging involves capturing spatial information of an object using a
 * **[CSNet-Layers](https://github.com/wuzhihua/CSNet-Layers)** (Example)
     * Implementation related to Compressed Sensing Networks.
 
-## Research Groups
+<!-- ## Research Groups
 
 * **Miles Padgett Group** (University of Glasgow, UK)
 * **Robert Boyd Group** (University of Ottawa / Rochester)
@@ -141,7 +147,81 @@ Single-pixel imaging involves capturing spatial information of an object using a
 * **Wen Chen Group** (Hong Kong Polytechnic University, China)
 * **Guohai Situ Group** (University of Chinese Academy of Sciences, China)
 * **Huaxia Deng Group** (University of Science and Technology of China, China)
-* **Zhaoshui He Group** (Guangdong University of Technology, China)
+* **Zhaoshui He Group** (Guangdong University of Technology, China) -->
+
+## Global Research Groups
+
+A curated list of prominent laboratories and research groups worldwide, organized by region.
+
+### 🇪🇺 Europe
+
+#### 🇬🇧 United Kingdom (A powerhouse in the field)
+
+* **Miles Padgett Group** - *University of Glasgow*
+    * **Key Figures**: Miles Padgett, Matthew Edgar (now independent).
+    * **Focus**: A leading group with immense influence. They have published numerous foundational reviews and innovative applications (e.g., 3D SPI, Video-rate SPI, THz SPI) in *Science* and *Nature* journals.
+    * **Keywords**: Orbital Angular Momentum (OAM), 3D Imaging, Real-time SPI.
+
+* **Daniele Faccio Group** - *University of Glasgow (formerly at Heriot-Watt)*
+    * **Focus**: Specializes in extreme photonics, utilizing single-pixel detectors for Non-Line-Of-Sight (NLOS) imaging and ultrafast time-resolved imaging.
+    * **Keywords**: Quantum Imaging, NLOS, Ultrafast gating.
+
+* **Jonathan Leach Group** - *Heriot-Watt University*
+    * **Focus**: Combines quantum imaging with single-pixel techniques, specifically Time-of-Flight (ToF) single-pixel imaging.
+    * **Keywords**: Quantum Technology, ToF SPI.
+
+---
+
+### 🌎 North America
+
+#### 🇺🇸 United States (The birthplace of theory)
+
+* **Jeffrey Shapiro Group** - *MIT*
+    * **Focus**: A pioneer of **Computational Ghost Imaging (CGI)**. He theoretically proved that ghost imaging can be achieved with classical light sources without quantum entanglement, triggering the explosion of the field.
+    * **Keywords**: Quantum vs. Classical debate, Gaussian-state quantum illumination.
+
+* **DSP Group (Rice University)**
+    * **Key Figures**: Richard Baraniuk, Kevin Kelly.
+    * **Focus**: The birthplace of the **Single-Pixel Camera**. They pioneered the application of **Compressed Sensing (CS)** in optical imaging and are considered the ancestors of SPI algorithms.
+    * **Keywords**: Compressive Sensing, DLP/DMD architectures.
+
+* **Robert Boyd Group** - *University of Rochester / University of Ottawa*
+    * **Focus**: A renowned expert in quantum nonlinear optics. Has produced extensive classic works on the physical mechanisms of ghost imaging (quantum and classical correlations).
+    * **Keywords**: Quantum Imaging, Nonlinear Optics.
+
+* **Yanhua Shih Group** - *University of Maryland, Baltimore County*
+    * **Focus**: Demonstrated the historic **first two-photon ghost imaging experiment** (1995). While primarily focused on physical mechanisms, his status in the field is foundational.
+
+---
+
+### 🌏 Asia
+
+#### 🇨🇳 China (Leading in engineering applications)
+
+* **Han Shensheng Group** - *SIOM, CAS (Shanghai)*
+    * **Key Figures**: Han Shensheng, Gong Wenlin, Situ Guohai.
+    * **Focus**: A premier team in China. They pioneered the engineering of **Ghost Imaging Lidar** and have deep accumulation in airborne and spaceborne applications. Prof. Situ Guohai is also highly active in **Deep Learning + Scattering Imaging**.
+    * **Keywords**: Ghost Imaging Lidar, Scattering media, Deep Learning.
+
+* **Beijing Institute of Technology (BIT)**
+    * **Key Figures**: Zhao Weiqian, Chen Xiyuan.
+    * **Focus**: Published numerous high-quality papers on Hyperspectral SPI, Microscopic SPI, and deep learning-based reconstruction algorithms.
+
+* **Tsinghua University**
+    * **Key Figures**: Suo Jinli, Dai Qionghai.
+    * **Focus**: Focuses on **Computational Photography**, combining SPI with various novel sensors and state-of-the-art algorithms.
+
+* **University of Science and Technology of China (USTC)**
+    * **Key Figures**: Li Chuanfeng, Xu Jinshi (Quantum); Xu Feihu (Single-photon).
+    * **Focus**: Focuses on single-photon imaging, Non-Line-Of-Sight (NLOS) imaging, and exploring the boundaries between quantum and classical imaging.
+
+* **Sichuan University**
+    * **Key Figures**: Wang Fei.
+    * **Focus**: Highly active in **Deep Learning reconstruction networks** for SPI (e.g., applying ResNet and Autoencoders to single-pixel imaging).
+
+* **Xi'an Jiaotong University (XJTU)**
+    * **Key Figures**: Shao Xiaopeng.
+    * **Focus**: A renowned expert in computational imaging, with unique insights into combining **scattering** and **polarization** imaging.
 
 ## Contributing
 
